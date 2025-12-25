@@ -5,9 +5,13 @@ Right now, the project focuses on reading and processing meeting transcripts, wi
 
 ## What this project does
 Reads meeting transcripts from a text file
+
 Acts as a base for AI-powered summarization
+
 Keeps the code clean, simple, and easy to understand
+
 Is designed to grow step-by-step rather than all at once
+
 This project is intentionally minimal so it’s easy to learn from and extend.
 
 ## Project Structure
