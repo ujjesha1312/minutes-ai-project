@@ -49,16 +49,8 @@ You can modify this file to test different meeting conversations.
 The sample_transcript.txt file contains example meeting content so you can immediately see how the project works.
 Feel free to edit it with your own meeting notes or discussion text.
 
-### What’s coming next
-This project is a work in progress. Planned improvements include:
-AI-based meeting summarization
-Automatic extraction of action items
-Speaker-wise summaries
-Integration with LLM APIs
-Audio-to-text support for real meetings
-
 Environment variables (planned)
-Future versions will use environment variables for API keys, stored safely in a .env file:
+Future versions will use environment variables for API keys, stored in a .env file:
 OPENAI_API_KEY=your_api_key_here
 
 ### Contributions
