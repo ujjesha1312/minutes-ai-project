@@ -1,0 +1,12 @@
+Meeting Title: Weekly Product Sync
+
+Alice discussed the current progress on the mobile application UI.
+Bob mentioned that the backend APIs are 80% complete.
+Charlie raised concerns about deployment timelines.
+
+Action Items:
+- Alice will finalize the UI design by Friday.
+- Bob will complete API integration by next week.
+- Charlie will prepare the deployment checklist.
+
+The team agreed to release the beta version in the first week of January.
